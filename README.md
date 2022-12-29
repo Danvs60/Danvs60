@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Danvs60
-I am a 2nd year Computer Science student at the University of Kent
+I am a final year Computer Science student at the University of Kent
 - 👀 I’m interested in ...
-All there is to know about the field and lots of work experience.
+Software engineering and machine learning.
 - 🌱 I’m currently learning ...
-Programming, Cyber Security, AI, HCI, Mathematics at the University.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Data Science, Machine Learning, Neural Networks, Quantum Computing at the University!
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... -->
 
 <!---
 Danvs60/Danvs60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
