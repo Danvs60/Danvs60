@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Computer Science student in the UK, specialising in Artificial Intelligence and Machine Learning. My current interests are Spiking Neural Networks and NLP models (topic modelling, sentiment analysis, etc.) for linguistics analysis. I enjoy cooking (mad about pizza), and I like fitness and bouldering.
+I'm a Software Engineer in the UK. I enjoy cooking (mad about pizza), and I like fitness and bouldering.
 
 
 
@@ -14,19 +14,19 @@ I'm a Computer Science student in the UK, specialising in Artificial Intelligenc
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Spiking Neural Networks on SpiNNaker
+👩‍💻 I'm currently working as a Software/DevOps Engineer.
 
-🧠 I'm currently learning Artificial Intelligence as a Computer Science UG
+🧠 I'm currently learning Elixir and Phoenix
 
-👯‍♀️ I'm looking to collaborate on any multidisciplinary project requiring intelligent use of statistical or deep models.
+👯‍♀️ I'm looking to collaborate on ...
 
 📫 Reach me on LinkedIn
 
 😄 Pronouns He/Him
 
-⚡️ Fun fact: I initially pursued a BSc in CS to learn to become a developer because I thought research was boring, but here I am, working on the exciting field of AI!
+⚡️ Fun fact: I am Italian, but allergic to tomatoes 🥲
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React, Java, Java Spring, SQL, Apache, Windows Web Server, C#, C, Haskell, Erlang, Python (sci-kit learn, keras etc.)
+Javascript, HTML, CSS, React, Java, Java Spring, SQL, C#, Python, Elixir
 
